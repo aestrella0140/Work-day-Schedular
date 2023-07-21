@@ -1,6 +1,6 @@
 # Work-day-Scheduler
 
-### URL : https://github.com/aestrella0140/Work-day-Scheduler
+### URL : https://aestrella0140.github.io/Work-day-Scheduler/
 
 ## Description
 This application is used to save events for work and color code past present and future time set. The application will set input text to local storage and save text even if page is refreshed.
